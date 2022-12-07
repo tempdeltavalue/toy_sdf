@@ -1,0 +1,5 @@
+tensorflow-gpu
+trimesh
+mesh_to_sdf
+pillow
+tqdm
